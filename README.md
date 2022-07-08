@@ -4,7 +4,7 @@
 </p>
 
 bun is a new:
-
+- small brother of NodeJs
 - JavaScript runtime with Web APIs like [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/fetch), [`WebSocket`](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), and several more builtin. bun embeds JavaScriptCore, which tends to be faster and more memory efficient than more popular engines like V8 (though harder to embed)
 - JavaScript/TypeScript/JSX transpiler
 - JavaScript & CSS bundler
